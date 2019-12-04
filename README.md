@@ -23,4 +23,7 @@ Creating a link to the added image can be done by using the ```img``` tag.
 ## Updating CDN Style Links
 In order to update a CDN Links,you have to update the script tag present in the ```index.html``` file as and when required.
 
+## Tools
+- We used this [Bootstrap Template](https://startbootstrap.com/themes/) to design the app.
+
 
