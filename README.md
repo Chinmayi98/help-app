@@ -27,6 +27,6 @@ In order to update a CDN Links,you have to update the script tag present in the 
 - We used this [Bootstrap Template](https://startbootstrap.com/themes/freelancer/) to design the app.
 
 ## Credits
-- Logo format - Section 01 - Group 01
+- Logo format, tables - Section 01 - Group 01
 
 
