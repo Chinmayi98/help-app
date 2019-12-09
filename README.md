@@ -26,4 +26,6 @@ In order to update a CDN Links,you have to update the script tag present in the 
 ## Tools
 - We used this [Bootstrap Template](https://startbootstrap.com/themes/freelancer/) to design the app.
 
+## Credits
+- Logo format, tables - [Section 01 - Group 01](https://cweltonsmith.github.io/pbl-website/index.html)
 
